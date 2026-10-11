@@ -4,7 +4,7 @@ javascript:(() => {
    CLEAN OLD DEMO
 ========================= */
 document.getElementById("shadin-demo")?.remove();
-document.getElementById("shadin-demo-style")?.remove();
+document.getElementById("shadin-demo-style")?.remove();  
 
 
 /* =========================
